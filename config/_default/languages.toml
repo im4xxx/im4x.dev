@@ -2,7 +2,7 @@
   languageName = "Russian"
   contentDir = "content/ru"
   weight = 10
-  [en.params]
+  [ru.params]
     languageISO = "RU"
     languageTag = "ru-RU"
     footer = 'Brought to you by <a class="text-muted" href="https://gethyas.com/">Hyas</a>'

@@ -1,9 +1,0 @@
-[[main]]
-  name = "GitHub"
-  url = "https://github.com/im4xxx/im4x.dev"
-  weight = 10
-
-[[social]]
-  name = "Telegram"
-  url = "https://t.me/cyberim4x"
-  weight = 20

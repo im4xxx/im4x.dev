@@ -13,7 +13,7 @@ rssLimit = 10
 summarylength = 20 # 70 (default)
 
 # Multilingual
-defaultContentLanguage = "en"
+defaultContentLanguage = "ru"
 defaultContentLanguageInSubdir = false
 
 copyRight = "Copyright (c) 2023 im4x"

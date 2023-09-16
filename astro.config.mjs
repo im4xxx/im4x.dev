@@ -18,10 +18,7 @@ export default defineConfig({
 			sidebar: [
 				{
 					label: 'Guides',
-					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Вступление', link: '/guides/introduction/' },
-					],
+					autogenerate: { directory: 'guides' },
 				},
 			],
 		}),

@@ -1,3 +1,4 @@
+---
 title: Чистка Звука
 description: ""
 sidebar:
@@ -5,7 +6,7 @@ sidebar:
     badge:
         text: New
         variant: tip
-
+---
 ## 1 Вариант от Alkhorus’a
 
 Рассмотрим "чистку" стандартными средствами аудишна. Помимо Audition можно использовать IZotope RX, SoundForge, WaveLab и т.д.

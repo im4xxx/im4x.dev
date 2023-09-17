@@ -1,6 +1,6 @@
 ---
 title: Предисловие
-description: Предисловие.
+description: ""
 sidebar:
     order: 1
     badge:

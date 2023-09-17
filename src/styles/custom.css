@@ -2,5 +2,17 @@
 :root {
     --sl-content-width: 50rem;
     --sl-text-5xl: 3.5rem;
-    font-size: medium;
+    font-size: 100%;
+}
+
+p {
+    font-size: 120%;
+}
+
+li {
+    font-size: 120%;
+}
+
+h2 {
+    font-size: 130%;
 }

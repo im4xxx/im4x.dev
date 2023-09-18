@@ -107,6 +107,6 @@ Spectral De-Noise - Основной инструмент при чистке.
 Сохраняем в WAV **Ctrl+S** или экспортируем во FLAC **Ctrl+E** для экономии места. Рипер
 очень хорошо работает с FLAC, рекомендую использовать его.
 
-**<img src="https://lh6.googleusercontent.com/hlZLExAE2YjSxxf1G0_5rI_bgPRIUf8mI0d0njHNin6PNqIqKsjxupMvPZ3wkDQZGGBfnFWtI0JBCWDPl9G553V1uubWiuMHxN7o7N2ZPTLqnsAK5YoSbhW5bOZDWzEdUSO1WVItUe62eUjYvsFJpY0" title="" alt="" data-align="center">**<img src="file:///C:/Users/shxro/AppData/Roaming/marktext/images/2023-09-18-01-07-08-image.png" title="" alt="" data-align="center">
-
+**<img src="https://lh6.googleusercontent.com/hlZLExAE2YjSxxf1G0_5rI_bgPRIUf8mI0d0njHNin6PNqIqKsjxupMvPZ3wkDQZGGBfnFWtI0JBCWDPl9G553V1uubWiuMHxN7o7N2ZPTLqnsAK5YoSbhW5bOZDWzEdUSO1WVItUe62eUjYvsFJpY0" title="" alt="" data-align="center">
+**
 

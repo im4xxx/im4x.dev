@@ -1,19 +1,11 @@
 ---
-
-title: Дакиниг
-
+title: Дакинг
 description: ""
-
 sidebar:
-
-order: 7
-
-badge:
-
-text: New
-
-variant: tip
-
+    order: 7
+    badge:
+        text: New
+        variant: tip
 ---
 
 

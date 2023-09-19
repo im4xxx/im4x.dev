@@ -6,7 +6,6 @@ sidebar:
     badge:
         text: New
         variant: tip
-
 ---
 
 Команды и их описание 

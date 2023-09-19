@@ -6,7 +6,6 @@ sidebar:
     badge:
         text: New
         variant: tip
-
 ---
 
 ## 1 РАБОТА С ЭФФЕКТАМИ (im4x)

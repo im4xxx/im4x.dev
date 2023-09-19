@@ -6,7 +6,6 @@ sidebar:
     badge:
         text: New
         variant: tip
-
 ---
 
 ## 1 Проблема со шрифтами в MKVToolNix

@@ -17,14 +17,13 @@ sidebar:
 ```
 
 Например:
-
+```
 #фиксы 10 серия 
 
 @Dr3oз4
-
 04:33 Вы уж простите её немного детский нрав. (сказал "детективный нрав")
 11:46 По мере того, как канистры наполнялись водой, её вес тянул их вниз, а жертва подымалась к потолку... (сказал "наполнялись воде")
-
+```
 <span style='color:red'>Если реплика перефразирована, но смысл сохранен, то фикс выписывать не нужно. </span>
 
 **![](https://lh4.googleusercontent.com/h2vc02wsPEVXI9rIQooo6ZfMkjzJoVf5Jp2VhFIrrgmZfs_aeJe9YtOobZEB3irxE7xBgcSDl34y4Grq4-d4WkPDpZFH67cNAXBWloFtaMOLFH3glIF9Wx2A0lF7GbAwv7fVXaYEUf1LcnD7f8-z2EQ)**

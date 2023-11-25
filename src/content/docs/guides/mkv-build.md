@@ -27,9 +27,9 @@ sidebar:
 ## Примеры названий:
 
 ### Файлы серий:
-- **Majin_Tantei_Nougami_Neuro_\[07]_\[AniLibria_TV]_\[HDTVRip_720p].mkv**
-- **JoJo_no_Kimyou_na_Bouken_Stardust_Crusaders_\[09]_\[AniLibria_TV]_\[BDRip_1080p].mkv**
-- **Noblesse_\[02]_\[AniLibria_TV]_\[WEBRip_1080p].mkv**
+- **Majin_Tantei_Nougami_Neuro_\[07\]_\[AniLibria_TV\]_\[HDTVRip_720p\].mkv**
+- **JoJo_no_Kimyou_na_Bouken_Stardust_Crusaders_\[09\]_\[AniLibria_TV\]_\[BDRip_1080p\].mkv**
+- **Noblesse_\[02\]_\[AniLibria_TV\]_\[WEBRip_1080p\].mkv**
 
 ### Папка с сериями:
 - **Majin Tantei Nougami Neuro - AniLibria.TV [HDTVRip 720p]**

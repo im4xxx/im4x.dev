@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "im4x.dev",
+			"path": "im4x.dev"
+		},
+		{
+			"name": ".vscode",
+			"path": "../ALGuides/.vscode"
+		}
+	],
+	"settings": {}
+}

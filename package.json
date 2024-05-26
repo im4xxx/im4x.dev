@@ -1,0 +1,17 @@
+{
+  "name": "im4x.dev",
+  "type": "module",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/starlight": "^0.10.0",
+    "astro": "^4.4.0",
+    "sharp": "^0.32.5"
+  }
+}

@@ -7,10 +7,6 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'AL Guides',
-			customCss: [
-				// Relative path to your custom CSS file
-				'./src/styles/custom.css',
-			],
 			social: {
 				github: 'https://github.com/im4xxx/im4x.dev',
 				twitter: 'https://t.me/anilibriaTech',
